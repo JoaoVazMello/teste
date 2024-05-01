@@ -26,6 +26,3 @@ Para iniciar um repositorio de maneira local basta somento usar o comando **git 
   git init
 
 ```
-=======
-# teste1
->>>>>>> 357b3452d003fd2a484b987e662c9ccc4fd5f250
