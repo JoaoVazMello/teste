@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BootCamp Dio | Curso introdutorio de git e git hub 
 
 Repositorio para salvar conteudo gerados durante a execução do BootCamp na DIO.
